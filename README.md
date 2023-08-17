@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kritika Singh
-- 👀 I’m interested in web development 
+- 👋 Hi, I’m Kritika Singh.
+- 👀 I’m interested in web development. 
 - 🌱 I'm currently learning Django. 
 - 📫 How to reach me: contact me on kritikasingh37918@gmail.com
 
