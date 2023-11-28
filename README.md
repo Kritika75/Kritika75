@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kritika Singh.
 - 👀 I’m interested in web development. 
-- 🌱 I'm currently learning Python. 
+- 🌱 I'm currently Practicing Python. 
 - 📫 How to reach me: contact me on kritikasingh37918@gmail.com
 
 <!---
