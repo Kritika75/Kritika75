@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kritika Singh.
-- 👀 I’m interested in web/app development. 
-- 🌱 I'm currently learning Kotlin. 
-- 📫 How to reach me: contact me on kritikasingh37918@gmail.com
+👋 Hi, I’m Kritika Singh!
+👀 I’m passionate about web and app development.
+🌱 Currently diving into Kotlin to enhance my skills.
+📫 Feel free to reach out: kritikasingh37918@gmail.com
 
 <!---
 Kritika75/Kritika75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
