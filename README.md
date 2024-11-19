@@ -1,17 +1,19 @@
-Hello World! I'm Kritika Singh
+# Hello World! 👋 I'm Kritika Singh  
 Turning ☕ into code
 
-What I Do:
+## What I Do
+- 🎨 **Create responsive and user-friendly web applications**
+- 🔧 **Develop robust backend solutions**
+- 📱 **Exploring mobile app development**
+- 🚀 **Always learning new technologies**
 
-🎨 Create responsive and user-friendly web applications
-🔧 Develop robust backend solutions
-📱 Exploring mobile app development
-🚀 Always learning new technologies
+## 🛠️ Tech Stack
+- **Languages**: HTML, CSS, JavaScript, Python, Kotlin
+- **Frameworks**: Django
 
-📫 Let's Connect!
 
-Email: kritikasingh37918@gmail.com
-Feel free to reach out for collaborations or just a tech chat!
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/kritika-singh-214602288/) 
 
 <!---
 Kritika75/Kritika75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
