@@ -1,7 +1,17 @@
-👋 Hi, I’m Kritika Singh!
-👀 I’m passionate about web and app development.
-🌱 Currently diving into Kotlin to enhance my skills.
-📫 Feel free to reach out: kritikasingh37918@gmail.com
+Hello World! I'm Kritika Singh
+Turning ☕ into code
+
+What I Do:
+
+🎨 Create responsive and user-friendly web applications
+🔧 Develop robust backend solutions
+📱 Exploring mobile app development
+🚀 Always learning new technologies
+
+📫 Let's Connect!
+
+Email: kritikasingh37918@gmail.com
+Feel free to reach out for collaborations or just a tech chat!
 
 <!---
 Kritika75/Kritika75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
