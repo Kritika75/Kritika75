@@ -8,8 +8,22 @@ Turning ☕ into code
 - 🚀 **Always learning new technologies**
 
 ## 🛠️ Tech Stack
-- **Languages**: HTML, CSS, JavaScript, Python, Kotlin
-- **Frameworks**: Django
+
+- **Frontend**
+
+HTML </br>
+CSS  </br>
+JavaScript </br>
+
+- **Backend**
+
+Python </br>
+Django Framework </br>
+REST APIs </br>
+
+- **Mobile Development**
+
+Kotlin (Learning)
 
 
 ## 📫 Let's Connect!
