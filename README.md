@@ -34,6 +34,8 @@ Kritika75/Kritika75 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+## Hacktoberfest Badges 
+
 [![An image of @kritika75's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritika75)](https://holopin.io/@kritika75) 
 
 ## GSSOC(24) Badges 🪶
