@@ -1,12 +1,6 @@
 # Hello World! 👋 I'm Kritika Singh  
 Turning ☕ into code
 
-## What I Do
-- 🎨 **Create responsive and user-friendly web applications**
-- 🔧 **Develop robust backend solutions**
-- 📱 **Exploring mobile app development**
-- 🚀 **Always learning new technologies**
-
 ## 🛠️ Tech Stack
 
 - **Frontend**
